@@ -1,19 +1,19 @@
-========
+---
 
 # **Dmitry Baranov**
 
-========
+---
 
 Junior Frontend Developer
 
-========
+---
 
 ### **My contacts:** 
 * Phone: +79618026939
 * E-mail: baranow.dmitry@gmail.com
 * Telegram: @dmitry_a_baranov
 
-=========
+---
 
 ### **About Me:**
 I am 35 years old. I live in the city of St. Petersburg. I work for a company providing mobile communication services.
@@ -24,7 +24,7 @@ In my free time I am actively engaged in sports (rock climbing). I like to trave
 
 I really hope that in a year I will be able to find my first job as a Frontend developer
 
-=========
+---
 
 ### **Code example:** 
 Task from the Codewars(Snail Sort): _given an n x n array, return the array elements arranged from outermost elements to the middle element, traveling clockwise._
@@ -42,13 +42,13 @@ snail = function (array) {
 };
 
 ```
-=========
+---
 
 ### **Courses:**
 
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
-=========
+---
 
 ### **Languages:**
 
